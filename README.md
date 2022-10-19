@@ -19,9 +19,10 @@
     ```
     python -m venv venv
     venv\Scripts\activate (on Windows)
+    source venv/bin/activate (on macOS)
     pip install -r requirements.txt
     ```
-
+d
 ## Implement the solution
 1. Implement the solution within a function in `app/main.py`
     ![Where to write a solution](./assets/where-to-write-a-solution.png)
